@@ -1,0 +1,5 @@
+.husky
+.pretierignore
+.babel.config.json
+jest.config.js
+.eslintrc

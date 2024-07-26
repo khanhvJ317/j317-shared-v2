@@ -1,0 +1,13 @@
+{
+  "extends": "ts-config-single-spa",
+  "files": ["src/j317-share-angular.ts"],
+  "compilerOptions": {
+    "declaration": true, 
+    "declarationDir": "dist",
+    "outDir": "dist",              // Output compiled JavaScript files to 'dist'
+    "rootDir": "src",              // Root directory of your source files
+    "sourceMap": true              // Optional: Include source maps for debugging
+  },
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.test*"]
+}

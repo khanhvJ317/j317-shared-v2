@@ -3,3 +3,4 @@
 .babel.config.json
 jest.config.js
 .eslintrc
+.node_modules

@@ -5,7 +5,7 @@
     "url": "https://github.com/khanhvJ317/j317-shared-api"
   },
   "description": "Shared Angular components for J317",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
